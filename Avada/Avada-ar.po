@@ -127,7 +127,7 @@ msgstr "البريد الإلكتروني (مطلوب)"
 #: includes/options/social_media.php:1056
 #: includes/options/social_media.php:1058
 msgid "Email"
-msgstr ""
+msgstr "البريد الإلكتروني"
 
 #: comments.php:78
 msgid "Website"
@@ -137,12 +137,11 @@ msgstr "الموقع"
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:153
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:207
 msgid "URL"
-msgstr ""
+msgstr "رابط URLـ"
 
 #: comments.php:80
-msgid ""
-"Save my name, email, and website in this browser for the next time I comment."
-msgstr ""
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr "إحفظ اسمي وبريدي وموقعي الإلكتروني في هذا المتصفح للمرة القادمة التي أعلق فيها."
 
 #: comments.php:85
 msgid "Comment"
@@ -177,15 +176,15 @@ msgstr "أضف تعليقا"
 
 #: header.php:42
 msgid "Skip to content"
-msgstr ""
+msgstr "تخطى إلى المحتوى"
 
 #: includes/admin-screens/dashboard.php:53
 msgid "Show Setup Steps"
-msgstr ""
+msgstr "أظهر خطوات الإعداد"
 
 #: includes/admin-screens/dashboard.php:59
 msgid "Welcome To Avada!"
-msgstr ""
+msgstr "أهلاً بك في أفادا"
 
 #: includes/admin-screens/dashboard.php:60
 msgid ""
@@ -2718,11 +2717,11 @@ msgstr ""
 
 #: includes/class-avada-layout-bbpress.php:138 search.php:30
 msgid "Need a new search?"
-msgstr ""
+msgstr "هل تريد أن تبحث  من جديد؟"
 
 #: includes/class-avada-layout-bbpress.php:139 search.php:32
 msgid "If you didn't find what you were looking for, try a new search!"
-msgstr ""
+msgstr "إن لم تكن قد وجدت ما تبحث عنه، جرب بحثاً جديداً"
 
 #: includes/class-avada-megamenu-framework.php:118
 msgid "Menu First Level Style"
